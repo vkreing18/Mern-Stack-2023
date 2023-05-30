@@ -1,0 +1,61 @@
+.navbar {
+    display: flex;
+    position: sticky;
+    top: 0;
+    height: 10vh;
+    width: 100vw;
+    background-color: rgb(223, 156, 156);
+    text-align: center;
+    /* justify-content: center; */
+}
+
+body {
+    background-color: rgb(216, 199, 199);
+}
+
+.navbar ul {
+    display: flex;
+    gap: 10px;
+    list-style: none;
+    /* text-decoration: none; */
+}
+
+.left {
+    margin-left: 10px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.left h2 {
+    color: blue;
+}
+
+.left ul {
+    margin-top: 3px;
+    /* padding: 10px; */
+}
+
+.right {
+    margin-left: 600px;
+    margin-top: 20px;
+    width: 30px;
+}
+
+#btn1,
+#btn2 {
+    background-color: rgb(107, 107, 134);
+    color: aliceblue;
+}
+
+.box1 {
+    border: 2px solid;
+    margin: 10px;
+    padding: 10px;
+}
+
+/* .box2 {
+    border: 2px solid;
+    margin: 10px;
+    padding: 10px;
+} */
