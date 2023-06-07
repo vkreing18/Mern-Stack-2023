@@ -1,0 +1,115 @@
+{
+  "myData": [
+    {
+      "image": "https://static.toiimg.com/photo/msid-96131622/96131622.jpg",
+      "title": " Mr.Virat Kohli ",
+      "rating": 4.5
+    },
+    {
+      "image": "https://static.toiimg.com/photo/msid-96131622/96131622.jpg",
+      "title": "Virat Kohli",
+      "rating": 4.6
+    },
+    {
+      "image": "https://static.toiimg.com/photo/msid-96131622/96131622.jpg",
+      "title": "Kohli",
+      "rating": 4.7
+    },
+    {
+      "image": "https://static.toiimg.com/photo/msid-96131622/96131622.jpg",
+      "title": "Virat",
+      "rating": 4.8
+    }
+  ],
+  "web": [
+    {
+      "email": "das",
+      "password": "1234",
+      "mob": "9090",
+      "name": "sahid",
+      "id": 1
+    },
+    {
+      "email": "mirzaasktitan@gmail.com",
+      "password": "1111",
+      "mob": "08082994314",
+      "name": "Mirza Asktitan",
+      "id": 2
+    },
+    {
+      "email": "123",
+      "password": "123",
+      "mob": "123",
+      "name": "123",
+      "id": 3
+    }
+  ],
+  "data": [
+    {
+      "image": "https://www.licious.in/blog/wp-content/uploads/2020/12/Hyderabadi-chicken-Biryani.jpg",
+      "title": "Chicken Biryani",
+      "fprice": "Full :Rs 250",
+      "hprice": " Half:Rs 250"
+    },
+    {
+      "image": "https://www.licious.in/blog/wp-content/uploads/2020/12/Hyderabadi-chicken-Biryani.jpg",
+      "title": "Chicken Biryani",
+      "fprice": "Full :Rs 250",
+      "hprice": " Half:Rs 250"
+    },
+    {
+      "image": "https://www.licious.in/blog/wp-content/uploads/2020/12/Hyderabadi-chicken-Biryani.jpg",
+      "title": "Chicken Biryani",
+      "fprice": "Full :Rs 250",
+      "hprice": " Half:Rs 250"
+    },
+    {
+      "image": "https://www.licious.in/blog/wp-content/uploads/2020/12/Hyderabadi-chicken-Biryani.jpg",
+      "title": "Chicken Biryani",
+      "fprice": "Full :Rs 250",
+      "hprice": " Half:Rs 250"
+    },
+    {
+      "image": "https://www.licious.in/blog/wp-content/uploads/2020/12/Hyderabadi-chicken-Biryani.jpg",
+      "title": "Chicken Biryani",
+      "fprice": "Full :Rs 250",
+      "hprice": " Half:Rs 250"
+    },
+    {
+      "image": "https://www.licious.in/blog/wp-content/uploads/2020/12/Hyderabadi-chicken-Biryani.jpg",
+      "title": "Chicken Biryani",
+      "fprice": "Full :Rs 250",
+      "hprice": " Half:Rs 250"
+    },
+    {
+      "image": "https://www.licious.in/blog/wp-content/uploads/2020/12/Hyderabadi-chicken-Biryani.jpg",
+      "title": "Chicken Biryani",
+      "fprice": "Full :Rs 250",
+      "hprice": " Half:Rs 250"
+    },
+    {
+      "image": "https://www.licious.in/blog/wp-content/uploads/2020/12/Hyderabadi-chicken-Biryani.jpg",
+      "title": "Chicken Biryani",
+      "fprice": "Full :Rs 250",
+      "hprice": " Half:Rs 250"
+    },
+    {
+      "image": "https://www.licious.in/blog/wp-content/uploads/2020/12/Hyderabadi-chicken-Biryani.jpg",
+      "title": "Chicken Biryani",
+      "fprice": "Full :Rs 250",
+      "hprice": " Half:Rs 250"
+    },
+    {
+      "image": "https://www.licious.in/blog/wp-content/uploads/2020/12/Hyderabadi-chicken-Biryani.jpg",
+      "title": "Chicken Biryani",
+      "fprice": "Full :Rs 250",
+      "hprice": " Half:Rs 250"
+    },
+    {
+      "image": "https://www.licious.in/blog/wp-content/uploads/2020/12/Hyderabadi-chicken-Biryani.jpg",
+      "title": "Chicken Biryani",
+      "fprice": "Full :Rs 250",
+      "hprice": " Half:Rs 250"
+    }
+  ]
+}

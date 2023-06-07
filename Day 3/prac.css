@@ -1,0 +1,133 @@
+#show {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2px;
+
+}
+
+.sty {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 2px solid white; */
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+}
+
+.st {
+    border: 2px solid;
+    background-color: #e8b1b1;
+    height: 300px;
+    width: 300px;
+}
+
+.navbar {
+    z-index: 10;
+    height: 9vh;
+    width: 100vw;
+    background-color: #131111;
+    color: white;
+    /* border: 2px solid rgb(236, 14, 14); */
+    display: flex;
+    gap: 40px;
+    /* text-align: center; */
+    align-items: center;
+    /* padding: 20px; */
+    position: sticky;
+    top: 0;
+}
+
+.navbar a {
+    text-decoration: none;
+    font-weight: 900;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    /* float: right; */
+}
+
+.navbar h1 {
+    margin-left: 10px;
+    margin-right: 700px;
+}
+
+.dd {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+    font-weight: bold;
+}
+
+button {
+    background-color: #008CBA;
+    border-radius: 8px;
+}
+
+.container {
+    display: inline-block;
+}
+
+.navbar img {
+    width: 100px;
+    height: 50px;
+    border-radius: 40px;
+    margin-right: 300px;
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar i {
+    margin-left: 50px;
+    color: white;
+}
+
+.navbar a:hover {
+    text-decoration: underline;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(194, 194, 51)
+}
+
+#des1 {
+    font-weight: 600;
+    display: flex;
+}
+
+.mainBox {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.heading {
+    position: absolute;
+    top: 100px;
+    left: 50px;
+    font-size: xxx-large;
+}
+.contain{
+    position: absolute;
+    top:150px;
+    left:50px;
+    font-size: xx-large;
+}
+.leftButton{
+    position: absolute;
+    top:200px;
+    left:20px;
+
+    /* font-size: xx-large; */
+}
+.leftButton button{
+    width: 200px;
+    height: 50px;
+    font-size: large;
+    font-family:Verdana;
+    font-weight: 600;
+    border: 5px double rgb(214, 234, 68);
+}
+.leftButton button:hover{
+    background-color: rgb(214, 214, 6);
+}

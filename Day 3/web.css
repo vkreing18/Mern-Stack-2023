@@ -1,0 +1,80 @@
+#show {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2px;
+
+}
+
+.sty {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 2px solid white; */
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+}
+
+.st {
+    border: 2px dotted;
+    background-color: #e8b1b1;
+    height: 250px;
+    width: 300px;
+    padding: 10px;
+}
+
+.navbar {
+    z-index: 10;
+    height: 9vh;
+    width: 100vw;
+    background-color: #131111;
+    color: white;
+    /* border: 2px solid rgb(236, 14, 14); */
+    display: flex;
+    gap: 40px;
+    /* text-align: center; */
+    align-items: center;
+    /* padding: 20px; */
+    position: sticky;
+    top: 0;
+    /* margin-bottom: 10px; */
+}
+
+.navbar a {
+    text-decoration: none;
+    font-weight: 900;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    /* float: right; */
+}
+
+.navbar h1 {
+    margin-left: 10px;
+    margin-right: 500px;
+}
+
+.dd {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+    font-weight: bold;
+}
+
+button {
+    background-color: #54bbde;
+    border-radius: 5px;
+    font: sans-serif;
+    height: 30px;
+    width: 40px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.navbar a:hover {
+    text-decoration: underline;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(194, 194, 51)
+}
